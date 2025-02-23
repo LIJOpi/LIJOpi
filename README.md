@@ -9,7 +9,7 @@
 ## 🔹 About Me
 - 📈 Experienced in **Excel Dashboards & Power BI Reports**
 - 🔍 Exploring **Data Science & Business Analytics**
-- 📊 Created an **Excel Call Centre Dashboard** ([Check it out!](https://github.com/LIJOpi/your-repo-link))
+- 📊 Created several projects regarding **data analytics and data science**
 - 📖 Always learning **new technologies and tools**  
 
 ## 🛠️ Skills & Tools
